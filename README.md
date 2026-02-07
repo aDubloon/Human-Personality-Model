@@ -2,6 +2,8 @@
 
 A machine learning application that predicts whether someone is an **Extrovert** or **Introvert** based on behavioral survey responses. Built with scikit-learn and deployed as an interactive Streamlit web application.
 
+🌐 **Live Demo**: [https://vihaans-personality-prediction-model.streamlit.app/](https://vihaans-personality-prediction-model.streamlit.app/)
+
 ## 📋 Features
 
 - **Personality Prediction**: Classify individuals as Extrovert or Introvert
